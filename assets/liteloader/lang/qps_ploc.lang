@@ -1,0 +1,84 @@
+# This file MUST be saved as UTF-8
+
+key.categories.litemods=[qvgI3][§eMöð Кзŷŝ !!]
+
+gui.about.modsloaded=[wc8Vp][%d ₥ŏđ(š) ℓöἀ₫é₫ !!!]
+gui.about.versiontext=[ft5uT][Véґƨíöή %s !!]
+gui.about.poweredbyversion=[CXNJk][ν%s§r φōẅзґĕδ Бỳ ĻįţéĻőắδзř ν%s !!! !!]
+
+gui.about.checkupdates=[VKV8T][§nÇħėςƙ ƒøř цpďᾰţэƨ !!!]
+
+gui.settings.showtab.label=[MpIOl][Şђǿω Ļīтè£ŏǡ₫зґ Pắñēľ Țἂь !!! !]
+gui.settings.showtab.help1=[c7uU7][Ίf ŷôџ dīśǟɓľ℮ τħίƨ òƥтǐǿи, ǖśé ČŤŘĿ+§ĦĬ₣Ț+ŢÁß !!! !!! !]
+gui.settings.showtab.help2=[dbIun][ŧó ǿƥĕň тħë ĻıτèĿő𐓙đeґ ƥǻпeľ !!! !]
+gui.settings.notabhide.label=[q6WJs][ĻĭтéŁőẵδēя Ťɑḃ Àłẅᾷyŝ Ēжƥậпdëδ !!! !!]
+gui.settings.notabhide.help1=[n4dbv][Όпĺy āƥρĺïëş ίƒ țħз 𐓙ḅòνè ôpťıōй îş ẫļśó ĉђзčƙēð !!! !!! !]
+gui.settings.forceupdate.label=[X4jkv][Þeѓïøδǐĉẵĺℓỳ €ħĕȼƙ ₣óґ Цρðἇτêŝ !!! !!]
+gui.settings.forceupdate.help1=[4AHpP][Ŧђìŝ ǿφťíôŉ ǐș §cèxφ℮ѓìmėŉťáι§г ặńδ ₥ǎч йöţ ŵσгƙ ρѓǿφėѓιγ !!! !!! !!!]
+gui.settings.forceupdate.help2=[Tcs2U][y℮т, íτ äĺƨŏ ēñắьŀèš ťђê "ƒσяĉé ύφďẳťĕ" çǎφẚḅǐιîтy. !!! !!! !!]
+gui.about.taboptions=[jFX58][§nŁîţзĻòăďêг ₽𐓙ŉ℮ι Òƥťíõńƨ !!! !]
+gui.about.authors=[Xhrwz][Āųŧнóřș !]
+gui.disablemod=[PPUxo][Ďīƨἁᵬłê мôδ !!]
+gui.enablemod=[Jcoql][Эñàᶀľè ₥öď !!]
+gui.modsettings=[b2EBn][Šεтτīиǧş... !!]
+gui.unknown=[vMbCO][Ǔиκиöẅŉ !]
+gui.status.loaded=[WOVPe][Ļσὰděδ !]
+gui.status.active=[oDl4d][Ăċŧīνě !]
+gui.status.disabled=[3iPZC][Ďîşɑƀιêð !]
+gui.status.pending.enabled=[O496o][Éηἇḅłέδ őπ пέxτ ƨť𐓘ѓτΰƥ !!! !]
+gui.status.pending.disabled=[ORB6n][Ďìšǟƀľε₫ ôη ňèжτ ŝτẵяţϋρ !!! !]
+gui.status.missingdeps=[idc17][Mìŝśîŉǧ đěƥ℮ñđëŉḉǐėś !!!]
+gui.status.missingapis=[DwlkZ][Mįŝșίñǵ гėʠµïязď ĄPÎş !!!]
+gui.status.startuperror=[DtIC4][Şțậгτцφ έгѓøґś δεţëȼτęđ !!! !]
+gui.description.missingdeps=[uzMSj][Mīššıňģ δęφęń₫эňḉïëś: %s !!! !]
+gui.description.missingapis=[80fgS][Mĭƨƨıňğ ΔPÌŝ: %s !!!]
+
+gui.mod.providestweak=[5SVlr][Țωeἃκ !]
+gui.mod.providestransformer=[SN7IN][Țřǟńƨƒôŗ₥έя !!]
+gui.mod.providesevents=[I5Y7w][Ïлjęƈтǿґ !]
+gui.mod.providesmixins=[OsOqA][Mĭxίŉŝ !]
+gui.mod.usingapi=[LBber][Ūšēś ādďĭτıóńǟι ÂÞĪ !!!]
+gui.mod.startuperror=[ep79W][%d šтȃяțüρ эѓŗőř(ƨ) !!!]
+
+gui.mod.help.tweak=[IGZOD][Á ŧẁèǻƙĕř ıș ᾱ ŝpêςî𐓘ĺ țчρę ǿf ₥őď. Ŧщзåκëґș ĥáνę ấŀмőšτ µиľì₥įťεđ ĉŏňțгøĺ õf τђ℮ ǥᾷ₥e ằŉď ầѓê ùŝύᾴŀłỳ mŏδƨ ωĥίĉн ẚŀτëř тђe ģăмэ ēиğĭńē ƒǖпđᶏмêñтằŀĺŷ, ƒõг ĕжầmρľë ÃÞǏș őя pēŗfòŗmẩñꞔê-êήн𐓘ήȼε₥ĕñţ ₥ōdƨ ĺíκĕ Όpτîƒîлê. ฿зĉǻϋšέ ţђэγ ђ𐓘νé тђę ꞡřēᾃτεŝτ å₥øǘηţ ǿf ςòŉţѓöι, ťнзч ᾲґĕ ȧľśó тнę móśт łıκεŀγ тő ċàũşė īйśŧ𐓙Ъίļïťỳ ẅĥëл ñöţ ꞔô₥ƥầțίьļέ ŵĭţђ ℮ᾂċђ ŏτĥĕг, íƒ ỳōǘ αґě ĕжƥэŗįěйcǐňɠ ḉřầşнэș óґ şéґĭòůś ƥѓõбιзmş, ŷöû šнσûĺδ ὰļшᾳγş τŗч đîŝᾃꞗĺĭйǵ țшēᾰκ мø₫ș ƒíгşτ. !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!]
+gui.mod.help.transformer=[wi6iQ][Ā ťřåñŝƒõяmέѓ møď ΰŝėș ɓyтèçőđê įŉjêċțįóń țô ђσöκ êжťґἁ ƒǚńςťìôлᾰŀıțŷ ωıτħǐл ŧĥэ ꞡɑмë ŵĥîḉħ £ìтęŁôǎďêг ₫ôēș ήòţ ńõг₥ȃľŀγ φřōνïđë. ßęçắǔƨè ţгàηșfõя₥ęґƨ ᾂɕɕéşŝ fµпḉтíŏήἃŀïťy ôūŧšĭdë øƒ ŁïţĕĿôᾱδēŗ'ŝ ςøѓē, ıŧ ıŝ pòşśĭḅŀę fõŗ ŧнèm ţǿ ħāνэ ϋηƒŏřşêĕň śï₫℮-ęƒƒêꞔτŝ ẃђεη ɕōмᶀìñëđ ŵĭţĥ ǿτħзѓ мŏ₫š. Īf γöǜ ẳѓê exρ℮řįěπḉìñḡ çŗậŝђэš ōя őтĥeг ǜπęжφėςţèď ᶀέнᾶνíôця, yòϋ ŝħōũĺd δíşẫɓŀέ țŗᾳлşfŏгмзř ₥ódș ƃěfσґê гэǵüļάґ мõδŝ ŧó ďęτèŗ₥ίлε шĥěτђêг ťĥeŷ ẳŗé τħê ŝσύгɕĕ ŏf ŧħè ïšƨũ℮. ₣σґġê ґзƒĕřŝ тő ŧнǐş ţчpë öf mõđ ȁś ⱥ §ļĆőřэMò₫ !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !]
+gui.mod.help.events=[F78J7][Àŉ ίπjěςťōŗ ₥õ₫ µśεş ạ яĕşŧŗǐçτĕď fǿř₥ ōf бŷţę¢öδě íήj℮ĉτίōл ẁнíĉħ mαƙèş îț șöмέẁђɑт ƨἀƒêř țħăη ᶏ ƒǘłĺ ţґảиŝƒôřмěґ ₥ŏ₫, ɓüт ćāп šτıłℓ ꞔ𐓘ùśė íηśťɑᵬíιǐŧŷ ǘπděя šŏmë ċίŗςų₥şтḁñcεś. Ìf γöũ ȃŗé έжpэгį℮иςìήḡ čгⱥşнêš ôґ ǿτħéґ įşŝǘэś, ŧĥêи чǿύ şħóǚļδ đίƨǻḅιè íпjêċțøř мő₫ş bзføŗэ ґèġũļẳг мôδƨ ţô ďeтěг₥ǐŉė ẅĥēτђeг țђзŷ ᾱгe тнε şøůгĉз σƒ тђé įšşúė. !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !!! !]
+gui.mod.help.mixins=[9064O][Á ₥ōđ ẁíτђ ₥ĭxíπş úşęś ᾰ ş𐓚ƒę føŗm σƒ ᵬyţĕçô₫ë ǐñjέȼţīǿη τσ ђòöκ īлțò Mīήėḉяẩfτ !!! !!! !!! !!!]
+
+gui.settings.title=[0slyR][%ș Şзţŧǐйġş !!]
+gui.saveandclose=[UCI6f][Ş𐓚νэ & Ĉŀσƨe !!]
+
+gui.updates.title=[rKSUc][Ćђεćƙ fōг µpdᾰτeƨ føя %s !!! !]
+gui.updates.status.idle=[Lgo4K][§7Ńō ǘƥðấțé ḉнέĉƙ íл pяóɠгėšś !!! !]
+gui.updates.status.checking=[ndXMe][Çóйțẵɕťïлġ ύρďἇŧě šįţэ... %s !!! !]
+gui.updates.status.success=[TNbQy][§aƨǜɕꞓέşș! !!]
+gui.updates.status.failed=[TH5lp][§cƒằįļ℮ð! !!]
+
+gui.updates.available.title=[03Fbj][§nĂνᾳíιᾴƃιз Ǜpδẫțė Ίňƒø !!! !]
+gui.updates.available.nonewversion=[eBelv][§7Ňŏ ñèẅêґ νěŗšíőή ᾲνạįłåβĺε !!! !]
+gui.updates.available.newversion=[fMbNN][§aИзш νèяșïóŉ ẳνẩìιǻЪļê !!! !]
+gui.updates.available.version=[vkGeG][Vêřšíöй: §ȁ%ș !!]
+gui.updates.available.date=[7nsUr][Ґêłěẩșε dǻţз: §a%s !!!]
+
+gui.updates.forced=[ph3L9][Цpđᾃțз ƒσгcë₫, ŗèŝțǎгτ țђē ḡἆmê τō ᾲƥpℓч ΰφdǡτe !!! !!! !]
+
+gui.checknow=[g0Sg8][Ĉħ℮čκ ñóш !!]
+gui.installupdate=[MfT7E][Ĭñšťǻłļ πòẁ !!]
+gui.downloadupdate=[4i5qa][Ďöẅηłǿἆδ ňøẅ !!]
+gui.forceupdate=[zyctQ][Főŗćė ůpďäτè !!]
+gui.exitgame=[CSfZt][Èжıť Ġᾰмe !!]
+
+gui.log.button=[lTKb2][ĿǐțéŁǿádèѓ Ŀöġ !!]
+gui.log.title=[irxXg][ŁíтэĿøẵðêя Ļőǥ Vıèẁзґ !!!]
+gui.log.scalecheckbox=[A2k4p][Ǜşę ñᾃťìνë ґĕșŏŀǚтįõň !!!]
+gui.log.postlog=[OXR7x][Цpļòǟđ Ļŏǧ !!]
+gui.log.uploading=[7AAQJ][Ǚφľσặδíńɠ ŀõğ φłĕάşé ŵἁǐŧ... !!! !]
+gui.log.uploadfailed=[6zwnP][Ǚριôāδ fåıĺĕđ !!]
+gui.log.uploadsuccess=[6Sv76][Ǚpŀõᾴ₫ śϋȼçэĕďĕδ, ℓõǵ åνǻīιȁᶀŀē ǻţ !!! !!]
+gui.log.closedialog=[GwlGQ][Çłóśě !]
+
+gui.error.title=[XxvlE][Šτậґťǘφ ěгяòѓƨ föя %š !!!]
+
+gui.error.tooltip=[bG2Se][%d mőδ ƨτấŗťΰp ēґяòř(ƨ) ₫ėțécťėď (%d čяǐтìċὰļ) !!! !!! !]
+
+gui.notifications.updateavailable=[3pwp1][ĻíťēŁσ𐓚ðěг Цρδẵτë Ǎνὰîŀᾶᵬłĕ! !!! !]
