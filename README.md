@@ -1,7 +1,8 @@
 # Minecraft Pseudo-localization Language Pack
 
 Add some Microsoft-styled Pseudo-localization language(like qps-ploc) into Minecraft.
-<br>Useful for font testing.
+<br>Useful for font testing.<be>
+注：可能不是经常更新，有时候可能猪瘟材质的伪本地化更新进度都比这快Σ(ŎдŎ|||)ﾉﾉ<br>所以来康康猪瘟材质叭[官网](https://zw.mingbaitalk.cn/index.php/zwpack)
 
 # Screenshots
 
