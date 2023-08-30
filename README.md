@@ -7,7 +7,7 @@
 
 
 Inspired by some Microsoft Windows builds that use the qps-ploc pseudo language (like `[1iaT9][ Ẅĭпðøωś Þнôтŏ Ģάŀļєяÿ !!! !]`,known for Windows 8 Betas),I created Pseudo-localization Language Pack For Minecraft(PsLP4MC).<br>
-This language pack added a language called `[4oSWE][Þŝęǘďö Ŀấňḡūǡǧe !]([QfIqk][₽șeǔđŏ !])` that imitates Microsoft`s pseudo-localization language(`qps-ploc`).
+This language pack added a language called `[4oSWE][Þŝęǘďö Ŀấňḡūǡǧe !]([QfIqk][₽șeǔđŏ !])` that imitates Microsoft's pseudo-localization language(`qps-ploc`).
 Using this pack,you can use this language in Minecraft by selecting this language at the Lanauage Settings or simply by setting lang=qps_ploc in options.txt.
 Using this language, you can verify Minecraft is localizable without actually localizing into a real language.
 <br>
@@ -29,9 +29,9 @@ For Chinese users,there is also a readable [article]([https://www.bilibili.com/r
 Up to `v0.05.230830`, PsLP4MC supports these modules:
 
 
-`Minecraft 1.8.x,1.19-1.20.1`(partial,1.13-1.18.2 might be usable,GUI translated,blocks&items&commands&entities aren`t pseudolocalizated,1.6.1-1.12.2 might be usable,downgraded from 1.19.3,added some 1.8.9 specific strings.)
+`Minecraft 1.8.x,1.19-1.20.1`(partial,1.13-1.18.2 might be usable,GUI translated,blocks&items&commands&entities aren't pseudolocalizated,1.6.1-1.12.2 might be usable,downgraded from 1.19.3,added some 1.8.9 specific strings.)
 `Minecraft Forge 1.12-&1.13+`(partial,commands not translated.studying Forge 1.13+ language file grammars.only tested on 1.8.9,1.12.2 and 1.19.2.)
-`OptiFine` (partial,some function introductions aren`t translated)
+`OptiFine` (partial,some function introductions aren't translated)
 `3D Skin Layers`
 `Autofish`
 `BetterFps`
