@@ -6,8 +6,8 @@
 **NOTE:This pack is currently in ALPHA.**
 
 
-Inspired by some Microsoft Windows builds that use the qps-ploc pseudo language (like '[1iaT9][ Ẅĭпðøωś Þнôтŏ Ģάŀļєяÿ !!! !]',known for Windows 8 Betas),I created Pseudo-localization Language Pack For Minecraft(PsLP4MC).<br>
-This language pack added a language called '[4oSWE][Þŝęǘďö Ŀấňḡūǡǧe !]([QfIqk][₽șeǔđŏ !])' that imitates Microsoft's pseudo-localization language('qps-ploc').
+Inspired by some Microsoft Windows builds that use the qps-ploc pseudo language (like `[1iaT9][ Ẅĭпðøωś Þнôтŏ Ģάŀļєяÿ !!! !]`,known for Windows 8 Betas),I created Pseudo-localization Language Pack For Minecraft(PsLP4MC).<br>
+This language pack added a language called `[4oSWE][Þŝęǘďö Ŀấňḡūǡǧe !]([QfIqk][₽șeǔđŏ !])` that imitates Microsoft`s pseudo-localization language(`qps-ploc`).
 Using this pack,you can use this language in Minecraft by selecting this language at the Lanauage Settings or simply by setting lang=qps_ploc in options.txt.
 Using this language, you can verify Minecraft is localizable without actually localizing into a real language.
 <br>
@@ -26,28 +26,28 @@ For more information about pseudolocalization,you can visit [https://learn.micro
 For Chinese users,there is also a readable [article]([https://www.bilibili.com/read/cv18226873) written Simplified Chinese.
 
 # Support Status
-Up to 'v0.05.230830', PsLP4MC supports these modules:
+Up to `v0.05.230830`, PsLP4MC supports these modules:
 
 
-'Minecraft 1.8.x,1.19-1.20.1'(partial,1.13-1.18.2 might be usable,GUI translated,blocks&items&commands&entities aren't pseudolocalizated,1.6.1-1.12.2 might be usable,downgraded from 1.19.3,added some 1.8.9 specific strings.)
-'Minecraft Forge 1.12-&1.13+'(partial,commands not translated.studying Forge 1.13+ language file grammars.only tested on 1.8.9,1.12.2 and 1.19.2.)
-'OptiFine' (partial,some function introductions aren't translated)
-'3D Skin Layers'
-'Autofish'
-'BetterFps'
-'Clay Core'
-'Continuity'
-'Forge Autofish'
-'FSB-interop'
-'Netease specific"fullscreenpopup"'
-'Iris'
-'Liteloader'
-'Modern UI'
-'Fabric Mod Menu' (up to 5.0.2)
-'Minecraft Realms' (Minecraft 1.13+)
-'Sodium' (up to 0.4.6 build 20)
-'TE Auto-Join' (not tested)
-'VexView'
+`Minecraft 1.8.x,1.19-1.20.1`(partial,1.13-1.18.2 might be usable,GUI translated,blocks&items&commands&entities aren`t pseudolocalizated,1.6.1-1.12.2 might be usable,downgraded from 1.19.3,added some 1.8.9 specific strings.)
+`Minecraft Forge 1.12-&1.13+`(partial,commands not translated.studying Forge 1.13+ language file grammars.only tested on 1.8.9,1.12.2 and 1.19.2.)
+`OptiFine` (partial,some function introductions aren`t translated)
+`3D Skin Layers`
+`Autofish`
+`BetterFps`
+`Clay Core`
+`Continuity`
+`Forge Autofish`
+`FSB-interop`
+`Netease specific"fullscreenpopup"`
+`Iris`
+`Liteloader`
+`Modern UI`
+`Fabric Mod Menu` (up to 5.0.2)
+`Minecraft Realms` (Minecraft 1.13+)
+`Sodium` (up to 0.4.6 build 20)
+`TE Auto-Join` (not tested)
+`VexView`
 
 
 # Author
@@ -71,7 +71,7 @@ Also,This pack might not be updated in time.:(
 
 # Changelog
 
-'v0.05.230830'
+`v0.05.230830`
 1. Added 1.20.1 support,changed pack_version to 15.
 2. Added Iris language support. 
 3. Added continuity language support. 
