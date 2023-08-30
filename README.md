@@ -86,6 +86,6 @@ https://zw.mb233.net/index.php/2022/08/28/minecraft-pseudo-pack/
 ![qwq](http://zw.mb233.net/wp-content/uploads/2023/01/2022-12-19_07.43.10.png)
 <br>
 ![qwq](http://zw.mb233.net/wp-content/uploads/2023/01/2022-12-25_11.10.32.png)
-<br>
-![qwq](http://zw.mb233.net/wp-content/uploads/2023/01/2022-12-25_11.10.32.png)
+<br>[
+![https://img1.imgtp.com/2023/08/30/N0g5zMyt.png](https://img1.imgtp.com/2023/08/30/N0g5zMyt.png)
 <br>
