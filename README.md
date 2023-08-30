@@ -2,9 +2,9 @@
 
 注：可能不是经常更新，有时候可能杼榅材质的伪本地化更新进度都比这快Σ(ŎдŎ|||)ﾉﾉ<br>所以来康康杼榅材质叭[官网](https://zw.mb233.net/index.php/zwpack)
 
-===============
+==
 NOTE:This pack is currently in ALPHA.
-===============
+
 
 Inspired by some Microsoft Windows builds that use the qps-ploc pseudo language (like [1iaT9][ Ẅĭпðøωś Þнôтŏ Ģάŀļєяÿ !!! !],known for Windows 8 Betas),I created Pseudo-localization Language Pack For Minecraft(PsLP4MC).
 This language pack added a language called [4oSWE][Þŝęǘďö Ŀấňḡūǡǧe !]([QfIqk][₽șeǔđŏ !]) that imitates Microsoft's pseudo-localization language(qps-ploc).
