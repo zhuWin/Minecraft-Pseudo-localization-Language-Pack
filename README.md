@@ -60,7 +60,7 @@ isumia杼榅(he,him,aka zhuWin,CallMeZHUWIN,IZUMIKun_泉君).
 * Website:https://zw.mb233.net/
 
 # Bugs & Ideas
-[Github Issues]([https://zw.mb233.net/index.php/zwpack](https://github.com/zhuWin/Minecraft-Pseudo-localization-Language-Pack/issues))
+[Github Issues](https://github.com/zhuWin/Minecraft-Pseudo-localization-Language-Pack/issues)
 Note that the author might be very busy and only have a few spare time,so the problem might not be seen by the author timely.
 Also,This pack might not be updated in time.:(
 
