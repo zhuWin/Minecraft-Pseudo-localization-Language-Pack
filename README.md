@@ -72,10 +72,10 @@ Also,This pack might not be updated in time.:(
 # Changelog
 
 'v0.05.230830'
-1.Added 1.20.1 support,changed pack_version to 15.
-2.Added Iris language support. 
-3.Added continuity language support. 
-4.Updated pack icon and language information strings.
+1. Added 1.20.1 support,changed pack_version to 15.
+2. Added Iris language support. 
+3. Added continuity language support. 
+4. Updated pack icon and language information strings.
 
 https://zw.mb233.net/index.php/2022/08/28/minecraft-pseudo-pack/
 
