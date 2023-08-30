@@ -11,10 +11,10 @@ This language pack added a language called '[4oSWE][Þŝęǘďö Ŀấňḡūǡ�
 Using this pack,you can use this language in Minecraft by selecting this language at the Lanauage Settings or simply by setting lang=qps_ploc in options.txt.
 Using this language, you can verify Minecraft is localizable without actually localizing into a real language.
 <br>
-*Test your custom fonts in an international multilingual environment.
-*Locate a translation string easily by locating the unique Hash ID.
-*Match your pseudolocalizated Windows Builds???
-*Just for fun???
+* Test your custom fonts in an international multilingual environment.
+* Locate a translation string easily by locating the unique Hash ID.
+* Match your pseudolocalizated Windows Builds???
+* Just for fun???
 
 # What is pseudo-localization?
 
@@ -53,11 +53,11 @@ Up to 'v0.05.230830', PsLP4MC supports these modules:
 # Author
 isumia杼榅(he,him,aka zhuWin,CallMeZHUWIN,IZUMIKun_泉君).
 
-*GitHub:@zhuWin
-*Discord:@zhuwin666 (zhuWin#6334,RIP Discord tag :(
-*Twitter@zhuwin666
-*Bilibili@isumia杼榅
-*Website:https://zw.mb233.net/
+* GitHub:@zhuWin
+* Discord:@zhuwin666 (zhuWin#6334,RIP Discord tag :(
+* Twitter@zhuwin666
+* Bilibili@isumia杼榅
+* Website:https://zw.mb233.net/
 
 # Bugs & Ideas
 [Github Issues]([https://zw.mb233.net/index.php/zwpack](https://github.com/zhuWin/Minecraft-Pseudo-localization-Language-Pack/issues))
