@@ -1,8 +1,79 @@
-# Minecraft Pseudo-localization Language Pack
+# Pseudo-localization Language Pack For Minecraft
 
-Add some Microsoft-styled Pseudo-localization language(like qps-ploc) into Minecraft.
-<br>Useful for font testing.<be>
-注：可能不是经常更新，有时候可能猪瘟材质的伪本地化更新进度都比这快Σ(ŎдŎ|||)ﾉﾉ<br>所以来康康猪瘟材质叭[官网](https://zw.mingbaitalk.cn/index.php/zwpack)
+注：可能不是经常更新，有时候可能杼榅材质的伪本地化更新进度都比这快Σ(ŎдŎ|||)ﾉﾉ<br>所以来康康杼榅材质叭[官网](https://zw.mb233.net/index.php/zwpack)
+
+===============
+NOTE:This pack is currently in ALPHA.
+===============
+
+Inspired by some Microsoft Windows builds that use the qps-ploc pseudo language (like [1iaT9][ Ẅĭпðøωś Þнôтŏ Ģάŀļєяÿ !!! !],known for Windows 8 Betas),I created Pseudo-localization Language Pack For Minecraft(PsLP4MC).
+This language pack added a language called [4oSWE][Þŝęǘďö Ŀấňḡūǡǧe !]([QfIqk][₽șeǔđŏ !]) that imitates Microsoft's pseudo-localization language(qps-ploc).
+Using this pack,you can use this language in Minecraft by selecting this language at the Lanauage Settings or simply by setting lang=qps_ploc in options.txt.
+Using this language, you can verify Minecraft is localizable without actually localizing into a real language.
+
+ • Test your custom fonts in an international multilingual environment.
+ • Locate a translation string easily.
+ • Match your pseudolocalizated Windows Builds???
+ • Just for fun???
+
+==========What is pseudo-localization?==========
+
+With pseudolocalization, you can verify that your product is localizable without actually localizing into a real language. Many potential issues in localization can be discovered independently from actual translation. The pseudolocalization strategy can be applied in the earliest phases of development before translation begins. The strategy is sustained throughout the development cycle for continual testing and validation.
+
+It simulates common effects of translation that commonly cause issues with a product. The transformation is readable enough that the product can still be used and tested without knowing a foreign language.
+
+For more information about pseudolocalization,you can visit https://learn.microsoft.com/globalization/methodology/pseudolocalization.
+For Chinese users,there is also a readable article written Simplified Chinese.https://www.bilibili.com/read/cv18226873
+
+==========Support Status==========
+Up to v0.05.230830, PsLP4MC supports these modules:
+Minecraft 1.19-1.20.1(partial,1.13-1.18.2 might be usable,GUI translated,blocks&items&commands&entities aren't pseudolocalizated,)
+Minecraft 1.8.9(partial,1.6.1-1.12.2 might be usable,downgraded from 1.19.3,added some 1.8.9 specific strings.)
+Minecraft Forge 1.12-&1.13+(partial,commands not translated.studying Forge 1.13+ language file grammars.only tested on 1.8.9,1.12.2 and 1.19.2.)
+OptiFine (partial,some function introductions aren't translated)
+3D Skin Layers
+Autofish
+BetterFps
+Clay Core
+Continuity
+Forge Autofish
+FSB-interop
+Netease specific"fullscreenpopup"
+Iris
+Liteloader
+Modern UI
+Fabric Mod Menu (up to 5.0.2)
+Minecraft Realms (Minecraft 1.13+)
+Sodium (up to 0.4.6 build 20)
+TE Auto-Join (not tested)
+VexView
+
+
+===========Author==========
+isumia杼榅(he,him,aka zhuWin,CallMeZHUWIN,IZUMIKun_泉君).
+GitHub:@zhuWin
+Discord:@zhuwin666 (zhuWin#6334,RIP Discord tag :(
+Twitter@zhuwin666
+Bilibili@isumia杼榅
+Website:https://zw.mb233.net/
+
+==========Bugs & Ideas==========
+https://github.com/zhuWin/Minecraft-Pseudo-localization-Language-Pack/issues
+Note that the author might be very busy and only have a few spare time,so the problem might not be seen by the author timely.
+Also,This pack might not be updated in time.:(
+
+==========Special Thanks==========
+@suntrise
+@what_damon
+
+==========Changelog==========
+v0.05.230830
+1.Added 1.20.1 support,changed pack_version to 15.
+2.Added Iris language support. 
+3.Added continuity language support. 
+4.Updated pack icon and language information strings.
+
+https://zw.mb233.net/index.php/2022/08/28/minecraft-pseudo-pack/
 
 # Screenshots
 
