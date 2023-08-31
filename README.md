@@ -51,7 +51,7 @@ Up to `v0.05.230830`, PsLP4MC supports these modules:
 
 
 # Author
-isumia杼榅(he,him,aka zhuWin,CallMeZHUWIN,IZUMIKun_泉君).
+isumia杼榅(aka zhuWin,CallMeZHUWIN,IZUMIKun_泉君).
 
 * GitHub:@zhuWin
 * Discord:@zhuwin666 (zhuWin#6334,RIP Discord tag :(
