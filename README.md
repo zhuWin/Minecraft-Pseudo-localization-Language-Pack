@@ -1,4 +1,12 @@
-# Pseudo-localization Language Pack For Minecraft
+# Pseudo-localization Language Pack For Minecraft (Pslo4MC)
+
+**NOTE:Contents in this repository isn't updated yet. Please download this pack directly from Modrinth to get its content. Issues are still needed to submit to this repository.**
+
+**Due to objective reasons, it is no longer actively maintained for a while. Trying to continue maintain this project if zhuWin have enough time or succeed making an automatic tool for this.**
+
+**Last sync: Java Edition 1.20.1 2023.8.30**
+
+**Currently Java Edition only.:/ For Bedrock Edition users, Go to[this repository](https://github.com/SomethingWasWrong-David/MinecraftBE-Pseudo-LanguagePack/blob/main/README.md)(⁠*⁠´⁠ω⁠｀⁠*⁠)**
 
 注：可能不是经常更新，有时候可能杼榅材质的伪本地化更新进度都比这快Σ(ŎдŎ|||)ﾉﾉ<br>所以来康康杼榅材质叭[官网](https://zwpurepvp.mysxl.cn)
 
