@@ -1,5 +1,5 @@
 
-**NOTE:Contents in this repository isn't updated yet. Please download this pack directly from Modrinth to get its content. Issues are still needed to submit to this repository.**
+**NOTE:Contents in this repository isn't updated yet. Please download this pack directly from [Modrinth](https://modrinth.com/resourcepack/pslp4mc/version/230830) to get its content. Issues are still needed to submit to this repository.**
 
 **Due to objective reasons, it is no longer actively maintained for a while. Trying to continue maintain this project if zhuWin have enough time or succeed making an automatic tool for this.**
 
@@ -88,5 +88,5 @@ https://zw.mb233.net/index.php/2022/08/28/minecraft-pseudo-pack/
 <br>
 ![qwq](http://zw.mb233.net/wp-content/uploads/2023/01/2022-12-25_11.10.32.png)
 <br>[
-![https://img1.imgtp.com/2023/08/30/N0g5zMyt.png](https://img1.imgtp.com/2023/08/30/N0g5zMyt.png)
+![https://img1.imgtp.com/2023/08/30/N0g5zMyt.png](https://wsrv.nl/?url=https%3A%2F%2Fcdn.discordapp.com%2Fattachments%2F533247649902755841%2F1157205344381059072%2F76d6574c8a47ef091753635706eb97b1e64458cc_2023-9-28_21-24-28.png)
 <br>
