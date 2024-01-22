@@ -5,7 +5,7 @@
 
 **Last sync: Java Edition 1.20.1 2023.8.30**
 
-**Currently Java Edition only.:/ For Bedrock Edition users, Go to[this repository](https://github.com/SomethingWasWrong-David/MinecraftBE-Pseudo-LanguagePack/blob/main/README.md)(⁠*⁠´⁠ω⁠｀⁠*⁠)**
+**Currently Java Edition only.:/ For Bedrock Edition users, Go to [this repository](https://github.com/SomethingWasWrong-David/MinecraftBE-Pseudo-LanguagePack/)(⁠*⁠´⁠ω⁠｀⁠*⁠)**
 
 注：可能不是经常更新，有时候可能杼榅材质的伪本地化更新进度都比这快Σ(ŎдŎ|||)ﾉﾉ<br>所以来康康杼榅材质叭[官网](https://zwpurepvp.mysxl.cn)
 
