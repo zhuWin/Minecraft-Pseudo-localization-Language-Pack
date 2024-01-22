@@ -1,5 +1,5 @@
 
-**NOTE:Contents in this repository isn't updated yet. Please download this pack directly from [Modrinth](https://modrinth.com/resourcepack/pslp4mc/version/230830) to get its content. Issues are still needed to submit to this repository.**
+**NOTE:Contents in this repository isn't been updated yet. Please download this pack directly from [Modrinth](https://modrinth.com/resourcepack/pslp4mc/version/230830) to get its content. Issues are still needed to submit to this repository.**
 
 **Due to objective reasons, it is no longer actively maintained for a while. Trying to continue maintain this project if zhuWin have enough time or succeed making an automatic tool for this.**
 
