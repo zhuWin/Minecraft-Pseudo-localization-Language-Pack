@@ -1,4 +1,3 @@
-# Pseudo-localization Language Pack For Minecraft (Pslo4MC)
 
 **NOTE:Contents in this repository isn't updated yet. Please download this pack directly from Modrinth to get its content. Issues are still needed to submit to this repository.**
 
@@ -10,6 +9,7 @@
 
 注：可能不是经常更新，有时候可能杼榅材质的伪本地化更新进度都比这快Σ(ŎдŎ|||)ﾉﾉ<br>所以来康康杼榅材质叭[官网](https://zwpurepvp.mysxl.cn)
 
+# Pseudo-localization Language Pack For Minecraft (Pslo4MC)
 
 **NOTE:This pack is currently in ALPHA.**
 
