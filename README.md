@@ -3,7 +3,7 @@
 
 **Due to objective reasons, it is no longer actively maintained for a while. Trying to continue maintain this project if zhuWin have enough time or succeed making an automatic tool for this.**
 
-**Last sync: Java Edition 1.20.1 2023.8.30**
+**Last sync: Java Edition 1.21 2024.7**
 
 **Currently Java Edition only.:/ For Bedrock Edition users, Go to [this repository](https://github.com/SomethingWasWrong-David/MinecraftBE-Pseudo-LanguagePack/)(⁠*⁠´⁠ω⁠｀⁠*⁠)**
 
@@ -37,30 +37,6 @@ It simulates common effects of translation that commonly cause issues with a pro
 For more information about pseudolocalization,you can visit [https://learn.microsoft.com/globalization/methodology/pseudolocalization](https://learn.microsoft.com/globalization/methodology/pseudolocalization).
 For Chinese users,there is also a readable [article]([https://www.bilibili.com/read/cv18226873) written Simplified Chinese.
 
-# Support Status
-Up to `v0.05.230830`, PsLP4MC supports these modules:
-
-
-* `Minecraft 1.8.x,1.19-1.20.1`(partial,1.13-1.18.2 might be usable,GUI translated,blocks&items&commands&entities aren't pseudolocalizated,1.6.1-1.12.2 might be usable,downgraded from 1.19.3,added some 1.8.9 specific strings.)
-* `Minecraft Forge 1.12-&1.13+`(partial,commands not translated.studying Forge 1.13+ language file grammars.only tested on 1.8.9,1.12.2 and 1.19.2.)
-* `OptiFine` (partial,some function introductions aren't translated)
-* `3D Skin Layers`
-* `Autofish`
-* `BetterFps`
-* `Clay Core`
-* `Continuity`
-* `Forge Autofish`
-* `FSB-interop`
-* `Netease specific"fullscreenpopup"`
-* `Iris`
-* `Liteloader`
-* `Modern UI`
-* `Fabric Mod Menu` (up to 5.0.2)
-* `Minecraft Realms` (Minecraft 1.13+)
-* `Sodium` (up to 0.4.6 build 20)
-* `TE Auto-Join` (not tested)
-* `VexView`
-
 
 
 
@@ -74,13 +50,18 @@ Also,This pack might not be updated in time.:(
 @suntrise
 @what_damon
 
-# Changelog
+# License
 
-`v0.05.230830`
-1. Added 1.20.1 support,changed pack_version to 15.
-2. Added Iris language support. 
-3. Added continuity language support. 
-4. Updated pack icon and language information strings.
+CC0 1.0 Universal (since Alpha #7)
+
+PROJECT ZWPACK & Pslo4MC by zhuWin
+
+To the extent possible under law, the person who associated CC0 with
+Pslo4MC has waived all copyright and related or neighboring rights
+to Pslo4MC.
+
+You should have received a copy of the CC0 legalcode along with this
+work.  If not, see https://creativecommons.org/publicdomain/zero/1.0/.
 
 https://zw.mb233.net/index.php/2022/08/28/minecraft-pseudo-pack/
 
