@@ -5,7 +5,7 @@
 
 **Last sync: Java Edition 1.21 2024.7**
 
-**Currently Java Edition only.:/ For Bedrock Edition users, Go to [this repository](https://github.com/SomethingWasWrong-David/MinecraftBE-Pseudo-LanguagePack/)(⁠*⁠´⁠ω⁠｀⁠*⁠)**
+**Currently Java Edition only.:/ For Bedrock Edition users, Go to [this repository](https://github.com/SomethingStillWrong/MCBE-Pseudo-LangPack)(⁠*⁠´⁠ω⁠｀⁠*⁠)**
 
 [bedrock edition version made by Fanconma](https://mcpedl.com/the-pseudolocalization-language-in-minecraft/)
 注：~~可能不是经常更新，有时候可能杼榅材质的伪本地化更新进度都比这快~~，只是有可能，截至目前zwpack也鸽了，最新版本Mizuki Blue R2所包含的伪本地化语言同步到Java Edition 1.19.3 Σ(ŎдŎ|||)ﾉﾉ<br>所以来康康杼榅材质叭[官网](https://zwpurepvp.mysxl.cn)
